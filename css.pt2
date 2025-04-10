@@ -137,19 +137,58 @@ h2{
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    padding: 20px;
    font-size: 50px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 5 20px;
+    border: 2px solid rgba(58, 8, 92, 0.911);
+    background-color: rgb(93, 13, 109);
+    border-start-end-radius: 88px;
+    border-top-left-radius: 88px;
 }
 #natureza{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 20px;
     font-size: 50px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 5 20px;
+    border: 2px solid rgba(58, 8, 92, 0.911);
+    background-color: rgb(93, 13, 109);
+    border-start-end-radius: 88px;
+    border-top-left-radius: 88px;
 }
 #humanas{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 20px;
     font-size: 50px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 5 20px;
+    border: 2px solid rgba(58, 8, 92, 0.911);
+    background-color: rgb(93, 13, 109);
+    border-start-end-radius: 88px;
+    border-top-left-radius: 88px;
 }
 #matematica{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 20px;
     font-size: 50px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 5 20px;
+    border: 2px solid rgba(58, 8, 92, 0.911);
+    background-color: rgb(93, 13, 109);
+    border-start-end-radius: 88px;
+    border-top-left-radius: 88px;
+}
+
+.topico{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    color: rgb(15, 0, 0);
+    text-decoration: none;
+
+}
+.topico:hover{
+    text-decoration-line: underline;
 }
