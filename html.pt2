@@ -10,7 +10,7 @@
 
     <!--Cabeçalho-->
     <nav id="menu">
-        <a href="#"class="links">Áreas </a>
+        <a href="#"class="links">Matérias </a>
         <a href="#"class="links">Sobre nós</a>
         <p id="logoacima">SIMPLIFICA</p>
         <a href="#"class="links">Entrar </a>
@@ -33,7 +33,10 @@
             <!-- sessão 02 -->
             <section id="sessao2">
                 <div id = "linguagem">Linguagens</div>
-            
+                <br> <br>
+                <a href="#" class="topico">Português</a> <br> <br>
+                <a href="#" class="topico">Inglês</a> <br> <br>
+                <a href="#" class="topico">Espanhol</a>
             </section>
              <!-- sessão 03 -->
              <section id="sessao3">
